@@ -1,0 +1,2 @@
+# leetcode
+first leetcode practice
