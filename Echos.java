@@ -8,4 +8,6 @@ sum +=Integer.parseInt(args[i]);
 }
 System.out.println(sum);
 }
+
 }
+//
